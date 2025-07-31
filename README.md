@@ -9,7 +9,13 @@ This repository contains codes and data for the paper *Shaping the social media 
 
 **topic_modeling**: conduct topic modeling with the fine-tuned model, visualize the topic model
 
-**data_analysis**: intercoder reliability for the manually coded topic-level newsfactor, prepare the dataset for multilevel modeling, descriptive analyses
+**ICR**: intercoder reliability for the manually coded topic-level newsfactor
+
+**newsfactor_classification**: full process of prompting and classifying newsfactors using ollama
+
+**ollama_classification**: a function to prompy ollama and document the results
+
+**data_analysis**: prepare the dataset for multilevel modeling, descriptive analyses
 
 **multilevelmodel**: R codes for multilevel modeling
 ## Data
