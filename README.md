@@ -13,7 +13,7 @@ This repository contains codes and data for the paper *Shaping the social media 
 
 **newsfactor_classification**: full process of prompting and classifying newsfactors using ollama
 
-**ollama_classification**: a function to prompy ollama and document the results
+**ollama_classification**: a function to prompt ollama and document the results
 
 **data_analysis**: prepare the dataset for multilevel modeling, descriptive analyses
 
